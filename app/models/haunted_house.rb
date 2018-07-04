@@ -1,1 +1,1 @@
-c;ass HauntedHouse < ActiveRecord::Base
+class HauntedHouse < ActiveRecord::Base

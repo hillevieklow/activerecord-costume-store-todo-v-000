@@ -1,1 +1,1 @@
-# Create your HauntedHouse class here
+c;ass HauntedHouse < ActiveRecord::Base
